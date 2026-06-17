@@ -66,7 +66,7 @@ bookButtons.forEach(button => {
     button.addEventListener("click", () => {
 
         window.open(
-            "https://wa.me/91738261001?text=Hi%20I%20want%20to%20book%20tickets%20for%20H2OMG%20Pool%20Festival",
+            "https://wa.me/917382610001?text=Hi%20I%20want%20to%20book%20tickets%20for%20H2OMG%20Pool%20Festival",
             "_blank"
         );
 
